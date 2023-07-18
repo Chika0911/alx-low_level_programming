@@ -25,5 +25,5 @@ int print_sign(int n)
         return (-1);
     }
 
-    return (-1); // Default return statement in case none of the conditions are met
+    return (-1);
 }
